@@ -12,9 +12,9 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = ""
-languageCode = "en-GB"
-defaultContentLanguage = "en-GB"
+baseurl = "/"
+languageCode = "en-gb"
+defaultContentLanguage = "en-gb"
 title = "Wildlife Environmental Physiology"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "wildlifeconservationphysiology"
