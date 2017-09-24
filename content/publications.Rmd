@@ -1,0 +1,143 @@
+---
+title: "Recent publications"
+slug: "publications"
+description: "A list of our most recent publications"
+date: "2017-09-23"
+lastmod: "2017-09-23"
+---
+
+## 2017
+
+- BARNETT A, BRACCINI M, DUDGEON C, PAYNE N, ABRANTES KG, SHEAVES M, SNELLING E. The utility of bioenergetics modeling in quantifying predation rates of marine apex predators: ecological and fisheries implications.
+_Scientifc Reports_, **in press**.
+
+- BUSS P, MILLER M, FULLER A, HAW A, STOUT E, OLEA-POPELKA F, MEYER LCR. 
+Post-induction butorphanol administration alters oxygen consumption to improve blood gases in etorphine-immobilized white rhinoceros. 
+_Veterinary Anaesthesia and Analgesia_, **in press**. DOI:
+[10.1016/j.vaa.2017.03.008](https://dx.doi.org/10.1016/j.vaa.2017.03.008)
+
+- DE LANGE SS, FULLER A, HAW A, HOFMEYR M, BUSS P, MILLER M, MEYER LCR.
+Tremors in white rhinoceros (Ceratotherium simum) during etorphine-azaperone immobilization. 
+_Journal of the South African Veterinary Association_ **88**: a1466, 2017. DOI [10.4102/jsava.v88i0.1466](https://dx.doi.org/10.4102/jsava.v88i0.1466)
+
+- HARDING, LE, SMITH FA, MURRAY IW, LEASE HM, MARTIN JT. Heat, sex and death: the curious tale of a desert mammal. **In:** Rowland S. (editor). _Natural History of Death Valley and the Mojave Desert_. University of California, USA: Berkeley Press, **in press**.
+
+- HENZI SP, HETEM RS, FULLER A, MALONEY SK, YOUNG C, MITCHELL D, BARRETT L, McFARLAND R.
+Consequence of sex-specific sociability for thermoregulation in male vervet monkeys during winter.
+_Journal of Zoology_ **302**: 193-200, 2017. DOI: [10.1111/jzo.12448](https://doi.org/10.1111/jzo.12448)
+
+- MITCHELL D, LABURN HP.
+South African thermal physiology: highlights from the 20th Century. **In:** History of thermal physiology, Blatteis CM (editor). _American Physiological Society Perspectives in Physiology Series_. New York, Springer, **in press**. 
+
+- MITCHELL G, VAN SITTERT S, ROBERTS D, MITCHELL D.
+Body surface area and thermoregulation in giraffes.
+_Journal of Arid Environments_ **145**: 35-42, 2017. DOI: [10.1016/j.jaridenv.2017.05.005](https://doi.org/10.1016/j.jaridenv.2017.05.005)
+
+- REY B, DUCHAMP C, ROUSSEL D. 
+Uncoupling effect of palmitate is exacerbated in skeletal muscle mitochondria of sea-acclimatized king penguins (Aptenodytes patagonicus). 
+_Comparative Biochemistry and Physiology A_ **211**: 56-60, 2017. DOI: [10.1016/j.cbpa.2017.06.009](https://doi.org/10.1016/j.cbpa.2017.06.009)
+
+- REY B, FULLER A, MITCHELL D, MEYER LCR, HETEM RS.
+Drought-induced starvation of aardvarks in the Kalahari: an indirect effect of climate change.
+_Biology Letters_ **13**: 20170301, 2017. DOI: [10.1098/rsbl.2017.0301](https://dx.doi.org/10.1098/rsbl.2017.0301)
+
+- SNELLING EP, HU Q, TAGGART DA, FULLER A, MITCHELL D, FARRELL AP, MALONEY SK, SEYMOUR RS.
+Scaling of the ankle extensor muscle-tendon units and the biomechanical implications for bipedal hopping locomotion in the post-pouch kangaroo Macropus fuliginosus.
+_Journal of Anatomy_, **in press**. 
+
+- STRAUSS WM, HETEM RS, MITCHELL D, MALONEY SK, O’BRIEN H, MEYER LCR, FULLER A.
+Body water conservation through selective brain cooling by the carotid rete: a physiological feature for surviving climate change?
+_Conservation Physiology_ **5**, 2017. DOI: [10.1093/conphys/cow078](https://doi.org/10.1093/conphys/cow078)
+
+- TRETHOWAN P, FULLER A, HAW A, HART T, MARKHAM A, LOVERIDGE AJ, HETEM R, DU PREEZ B, MACDONALD DW. 
+Getting to the core: internal body temperatures help reveal the ecological function and thermal implications of the lions’ mane.
+_Ecology and Evolution_ **7**: 253-262, 2017. DOI: [10.1002/ece3.255](https://doi.org/10.1002/ece3.2556)
+
+- YOUNG C, GANSWINDT A, McFARLAND R, DE VILLIERS C, VAN HEERDEN J, GANSWINDT S, BARRETT L, HENZI SP.
+Faecal glucocorticoid metabolite monitoring as a measure of physiological stress in captive and wild vervet monkeys
+_General and Comparative Endocrinology_, **in press**. DOI: [10.1016/j.ygcen.2017.08.025](https://doi.org/10.1016/j.ygcen.2017.08.025)
+
+
+## 2016
+
+- BUSS P, MILLER M, FULLER A, HAW A, WANTY R, OLEA-POPELKA F, MEYER L. 
+Cardiovascular effects of etorphine, azaperone and butorphanol combinations in chemically immobilized captive white rhinoceros (Ceratotherium simum).
+_Journal of Zoo and Wildlife Medicine_ **47**:834-43, 2016. DOI: 
+[10.1638/2015-0298.1](https://doi.org/10.1638/2015-0298.1)
+
+- CROWE-RIDDELL JM, SNELLING EP, WATSON AP, Kyuseop SUH A, PARTRIDGE C, SANDERS KL.
+The evolution of scale sensilla in the transition from land to sea in elapid snakes.
+_Open Biology_ **6**:160054, 2016. DOI:
+[10.1098/rsob.160054](https://doi.org/10.1098/rsob.160054)
+
+- FULLER A, MITCHELL D, MALONEY SK, HETEM RS.
+Towards a mechanistic understanding of the responses of large terrestrial mammals to heat and aridity associated with climate change
+_Climate Change Responses_ **3**: 1-19, 2016. DOI:
+[10.1186/s40665-016-0024-1](https://doi.org/10.1186/s40665-016-0024-1)
+
+- HAW AJ, MEYER LCR, FULLER A.
+Nalbuphine and butorphanol reverse opioid-induced respiratory depression but increase arousal in etorphine-immobilized goats (Capra hircus).
+_Veterinary Anaesthesia and Analgesia_ **43**:539-48, 2016.
+[10.1111/vaa.12343](https://doi.org/10.1111/vaa.12343)
+
+- HAW AJ, MEYER LCR, GREER JJ, FULLER A.
+Ampakine CX1942 attenuates opioid-induced respiratory depression and corrects the hypoxaemic effects of etorphine in immobilized goats (Capra hircus).
+_Veterinary Anaesthesia and Analgesia_ **43**:528-38, 2016.
+[10.1111/vaa.12358](http://dx.doi.org/10.1111/vaa.12358)
+
+- HETEM RS, MALONEY SK, FULLER A, MITCHELL D.
+Heterothermy in large mammals: inevitable or implemented? 
+_Biological Reviews_ **91**:187-205, 2016.
+[10.1111/brv.12166](https://doi.org/10.1111/brv.12166)
+
+- MCFARLAND R, HENZI P, BARRETT L, WANIGARATNE A, COETZEE E, FULLER A, HETEM RS, MITCHELL D, MALONEY SK.
+Thermal consequences of increased pelt loft infer an additional utilitarian function for grooming.
+_American Journal of Primatology_ **78**:456-61, 2016.
+[10.1002/ajp.22519](https://doi.org/10.1002/ajp.22519)
+
+- MOLE M, D'ARAUJO S, VAN AARDE R, MITCHELL D, FULLER A.
+Coping with heat: behavioural and physiological responses of savanna elephants in their natural habitat.
+_Conservation Physiology_ **4**:cow044, 2016.
+[10.1093%2Fconphys%2Fcow044](https://dx.doi.org/10.1093%2Fconphys%2Fcow044)
+
+- MURRAY IW, FULLER A, LEASE HM, MITCHELL D, HETEM RS.
+Ecological niche separation of two sympatric insectivorous lizard species in the Namib Desert.
+_Journal of Arid Environments_ **124**:225-32, 2016.
+[10.1016/j.jaridenv.2015.08.020](https://doi.org/10.1016/j.jaridenv.2015.08.020)
+
+- MURRAY IW, LEASE HM, HETEM RS, MITCHELL D, FULLER A, WOODBORNE S.
+Stable isotope analysis of diet confirms niche separation of two sympatric species of Namib Desert lizard.
+_Integrative Zoology_ **11**:60–75, 2016.
+[10.1111/1749-4877.12170](https://doi.org/10.1111/1749-4877.12170)
+
+- REY B, FULLER A, HETEM RS, LEASE HM, MITCHELL D, MEYER LCR. 
+Microchip transponder thermometry for monitoring core body temperature during capture of antelope.
+_Journal of Thermal Biology_ **55**:47-53, 2016.
+[10.1016/j.jtherbio.2015.11.010](https://doi.org/10.1016/j.jtherbio.2015.11.010)
+
+- REY B, DéGLETAGNE C, BODENNEC J, MONTERNIER P-A, MORTZ M, ROUSSEL D, ROMESTAING C, ROUANET J-L, TORNOS J, DUCHAMP C.
+Hormetic response triggers multifaceted anti-oxidant strategies in immature king penguins (Aptenodytes patagonicus).
+_Free Radical Biology and Medicine_ **97**:577-587, 2016.
+[10.1016/j.freeradbiomed.2016.07.015](https://doi.org/10.1016/j.freeradbiomed.2016.07.015)
+
+- SEYMOUR RX, BOSIOCIC V, SNELLING EP.
+Fossil skulls reveal that blood flow rate to the brain increased faster than brain volume during human evolution.
+_Royal Society Open Science_ **3**:160305, 2016.
+[10.1098/rsos.160305](https://doi.org/10.1098/rsos.160305)
+
+- SNELLING EP, SEYMOUR RS, GREEN JEF, MEYER LCR, FULLER A, HAW A, MITCHELL D, FARRELL AP, COSTELLO M-A, IZWAN A, BADENHORST M, MALONEY SK.
+A structure–function analysis of the left ventricle. 
+_Journal of Applied Physiology_ **121**:900-909, 2016.
+[10.1152/japplphysiol.00435.2016](https://doi.org/10.1152/japplphysiol.00435.2016)
+
+- STRAUSS WM, HETEM RS, MITCHELL D, MALONEY SK, MEYER LCR, FULLER A.
+Three African antelope species with varying water dependencies exhibit similar selective brain cooling. 
+_Journal of Comparative Physiology B_ **186**:527-40, 2016. 
+[10.1007/s00360-016-0968-2](https://doi.org/10.1007/s00360-016-0968-2)
+
+- TRETHOWAN PD, HART T, LOVERIDGE AJ, HAW A, FULLER A, MACDONALD DW.
+Improved homeothermy and hypothermia in African lions during gestation. 
+_Biology Letters_ **12**: 20160645, 2016.
+[10.1098/rsbl.2016.0645](https://doi.org/10.1098/rsbl.2016.0645)
+
+

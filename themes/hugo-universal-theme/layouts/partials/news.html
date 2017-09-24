@@ -1,0 +1,37 @@
+{{ if isset .Site.Params "news" }}
+{{ if .Site.Params.news.enable }}
+{{ if gt (len .Site.Data.news) 0 }}
+<section class="bar background-white">
+    <div class="container">
+        <div class="heading text-center">
+                    <h2 style="margin-top:-20px">
+                        {{ .Site.Params.news.title }}
+                    </h2>
+                </div>
+        {{ range $index, $element := sort .Site.Data.news "weight" }}
+		{{ if eq (mod $index 3) 0 }}
+		<div class="col-md-12">
+            <div class="row">
+		{{ end }}
+				<div class="col-md-4">
+				    <div class="box-simple">
+                        <div class="image" style="overflow:hidden">
+                            <!-- IMAGE SIZE: 320 width x 213 height -->
+                            <img src="{{ .banner }}">
+                        </div>
+                        <div style="text-align:justify">
+                            <h3 style="text-align:center">{{ $element.name }}</h3>
+                            <p>{{ $element.description | markdownify }}</p>
+                        </div>
+                    </div>
+                </div>
+		{{ if or (eq (mod $index 3) 2) (eq $index (sub (len $.Site.Data.news) 1 )) }}
+			</div>
+		</div>
+		{{ end }}
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
