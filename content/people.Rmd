@@ -31,7 +31,7 @@ slug: "people"
 <div class="container">
 <b>Leith Meyer</b> (BVSc, PhD) 
 <br><a href="mailto:leith.meyer@up.ac.za">leith.meyerm@up.ac.za</a> 
-<p style="max-width:230px;text-align:left">Leith is an Associate Professor in the Department of Paraclinical Sciences in the Veterinary Faculty at the University of Pretoria, South Africa.</p>
+<p style="max-width:230px;text-align:left">Leith is an Associate Professor in the Department of Paraclinical Sciences at the University of Pretoria, South Africa, and an Honorary Senior Research Fellow in the School of Physiology at the University of the Witwatersrand.</p>
 </div>
 </div>
 <!-- Shane Maloney  -->
@@ -58,7 +58,7 @@ slug: "people"
 <div class="container">
 <b>Duncan Mitchell</b> (PhD, DSc) 
 <br><a href="mailto:duncan.mitchell@wits.ac.za">duncan.mitchell@wits.ac.za</a> 
-<p style="max-width:230px;text-align:left">Duncan is Emeritus Professor and Honorary Professorial Research Fellow in the School of Physiology at the University of the Witwatersrand.</p>
+<p style="max-width:230px;text-align:left">Duncan is Emeritus Professor and Honorary Professorial Research Fellow in the School of Physiology at the University of the Witwatersrand, and an Adjunct Professor in the School of Human Sciences at the University of Western Australia.</p>
 </div>
 </div>
 <!-- Benjamin Rey  -->
@@ -136,7 +136,7 @@ slug: "people"
 <div class="container">
 <b>Arista Botha</b>
 <br><a href="mailto:arista.vanstaden@wits.ac.za">arista.vanstaden@wits.ac.za</a> 
-<p style="max-width:230px;text-align:left">Associate research officer and <span style="color:red;">PhD candidate</span>: Body temperature patterns as an indication of nutritional well-being in ungulates. 
+<p style="max-width:230px;text-align:left"><span style="color:red;">Associate research officer</span> and <span style="color:red;">PhD candidate</span>: Body temperature patterns as an indication of nutritional well-being in ungulates. 
 </p>
 </div>
 </div>
@@ -165,7 +165,7 @@ slug: "people"
 <div class="container">
 <b>Sophie Collier</b> 
 <br><a href="mailto:SophieCollier2@hotmail.com">SophieCollier2@hotmail.com</a> 
-<p style="max-width:230px;text-align:left"><span style="color:red;">PhD candidate</span>: Behavioural flexibility of chacma baboons to a changing thermal world.</p>
+<p style="max-width:230px;text-align:left"><span style="color:red;">PhD candidate</span>: Behavioural flexibility of chacma baboons in a changing thermal world.</p>
 </div>
 </div>
 <!-- Kiara Haylock -->
@@ -236,7 +236,7 @@ slug: "people"
 <div class="container">
 <b>Peter Buss</b>
 <p style="max-width:230px;text-align:left"><em>Veterinary Senior Manager, South African National Parks</em>
-<br><span style="color:red;">PhD</span>: Understanding the physiological basis for managing anaesthetic related hypoxia in wildlife.</p>
+<br><span style="color:red;">PhD</span> (2017): Understanding the physiological basis for managing anaesthetic related hypoxia in wildlife.</p>
 </div>
 </div>
 <!-- Shaun D’Araujo -->
@@ -245,7 +245,7 @@ slug: "people"
 <div class="container">
 <b>Shaun D’Araujo</b>
 <p style="max-width:230px;text-align:left"><em>Guide, Londolozi Game Reserve, South Africa</em>
-<br><span style="color:red;">MSc</span>: The relationship between body and environmental temperatures in savanna elephants (<em>Loxodonta africana</em>).</p>
+<br><span style="color:red;">MSc</span> (2016): The relationship between body and environmental temperatures in savanna elephants (<em>Loxodonta africana</em>).</p>
 </div>
 </div>
 <!-- Stephanie de Lange -->
@@ -254,7 +254,7 @@ slug: "people"
 <div class="container">
 <b>Stephanie de Lange</b>
 <p style="max-width:230px;text-align:left"><em>Park Warden, Gondwana Collection, Namibia</em>
-<br><span style="color:red;">MSc</span>: Tremors in white rhinoceros (<em>Ceratotherium simum</em>) during chemical immobilisation.
+<br><span style="color:red;">MSc</span> (2016): Tremors in white rhinoceros (<em>Ceratotherium simum</em>) during chemical immobilisation.
 </p>
 </div>
 </div>
@@ -264,7 +264,7 @@ slug: "people"
 <div class="container">
 <b>Anna Haw</b>
 <p style="max-width:230px;text-align:left"><em>MBA candidate, Stanford University, USA</em>
-<br><span style="color:red;">PhD</span>: Reduction of respiratory depression during chemical immobilization of herbivores.</p>
+<br><span style="color:red;">PhD</span> (2016): Reduction of respiratory depression during chemical immobilization of herbivores.</p>
 </div>
 </div>
 <!-- Hilary Lease -->
@@ -273,7 +273,7 @@ slug: "people"
 <div class="container">
 <b>Hilary Lease</b>
 <p style="max-width:230px;text-align:left"><em>Lecturer, University of Arizona, USA</em>
-<br><span style="color:red;">Postdoctoral fellow</span></p>
+<br><span style="color:red;">Postdoctoral fellow</span> (2014)</p>
 </div>
 </div>
 <!-- Michael Mole -->
@@ -282,7 +282,7 @@ slug: "people"
 <div class="container">
 <b>Michael Mole</b>
 <p style="max-width:230px;text-align:left"><em>Research Assistant, University of Pretoria, South Africa</em>
-<br><span style="color:red;">MSc</span>: Behavioural thermoregulation in free-ranging savanna elephants (<em>Loxodonta africana</em>).</p>
+<br><span style="color:red;">MSc</span> (2016): Behavioural thermoregulation in free-ranging savanna elephants (<em>Loxodonta africana</em>).</p>
 </div>
 </div>
 <!-- Davison Moyo -->
@@ -290,7 +290,7 @@ slug: "people"
 <img src="../img/people/davison-moyo.jpg" class="img-circle" style="width:50%;">
 <div class="container">
 <b>Davison Moyo</b>
-<p style="max-width:230px;text-align:left"><span style="color:red;">PhD</span>: Thermoregulation, febrile responses and intestinal fluid secretion of local pigs: responses that could buffer effects of climate change.</p>
+<p style="max-width:230px;text-align:left"><span style="color:red;">PhD</span> (2017): Thermoregulation, febrile responses and intestinal fluid secretion of local pigs: responses that could buffer effects of climate change.</p>
 </div>
 </div>
 <!-- Ian Murray -->
@@ -299,7 +299,7 @@ slug: "people"
 <div class="container">
 <b>Ian Murray</b>
 <p style="max-width:230px;text-align:left"><em>Conservation Biologist, Arizona, USA</em>
-<br><span style="color:red;">Postdoctoral fellow</span></p>
+<br><span style="color:red;">Postdoctoral fellow</span> (2015)</p>
 </div>
 </div>
 <!-- Maartin Strauss -->
@@ -308,7 +308,7 @@ slug: "people"
 <div class="container">
 <b>Maartin Strauss</b>
 <p style="max-width:230px;text-align:left"><em>Senior Lecturer, University of South Africa (UNISA), South Africa</em>
-<br><span style="color:red;">PhD</span>: Water conservation strategies of large African ungulates.</p>
+<br><span style="color:red;">PhD</span> (2017): Water conservation strategies of large African ungulates.</p>
 </div>
 </div>
 

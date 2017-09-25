@@ -142,7 +142,7 @@ paginate = 3
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "The team"
-    subtitle = "Our global team, with its home at the University of the Witwatersrand in South Africa, has been working together for more than 20 years, using innovative technology to investigate the physiology of free-living mammals facing stressors resulting from environmental change and conservation management interventions."
+    subtitle = "Our global team, with its home at the University of the Witwatersrand in South Africa, uses innovative technology to investigate the physiology of free-living mammals facing stressors resulting from environmental change and conservation management interventions."
 
 [params.partners]
     enable = false
