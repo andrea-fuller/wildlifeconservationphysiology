@@ -21,16 +21,7 @@
 	max-height: 500px;
 }
 
-@media (min-width:320px) { /* smartphones, portrait */ 
-    .owl-carousel{
-        display: none;
-	    position: relative;
-	    width: 100%;
-	    -ms-touch-action: pan-y;
-    }
-}
-
-@media (min-width:480px) { /* smartphones, landscape */ 
+@media (max-width:480px) { /* smartphones, landscape */ 
         .owl-carousel{
         display: none;
 	    position: relative;
