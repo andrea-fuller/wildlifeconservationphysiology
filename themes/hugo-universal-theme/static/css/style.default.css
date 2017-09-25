@@ -1726,7 +1726,8 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  padding: 20px 0;
+  background: url('../img/texture-bw.png') center center repeat;
+  padding: 30px;
   margin-bottom: 40px;
 }
 #heading-breadcrumbs.no-mb {

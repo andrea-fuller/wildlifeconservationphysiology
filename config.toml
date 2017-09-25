@@ -102,9 +102,10 @@ paginate = 3
 
     logo = "img/logo.png"
     address = """<p><strong>School of Physiology</strong>
-        <br>7 York Road, Parktown
-        <br>2193, Gauteng
-        <br>South Africa
+        <br>Faculty of Health Sciences
+        <br>University of the Witwatersrand
+        <br>7 York Road, Parktown, 2193
+        <br>Gauteng, South Africa
         <br><strong>Email: </strong><a href="mailto:andrea.fuller@wits.ac.za">andrea.fuller@wits.ac.za</a> 
         <br><strong>Tel: </strong>+27 (0)11 717 2363
       </p>
