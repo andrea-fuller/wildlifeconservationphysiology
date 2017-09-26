@@ -75,6 +75,8 @@ slug: "partners"
 
 - **Louise Barrett** and **Peter Henzi** – University of Lethbridge, Canada
 
+- **Piet Beytell** and **Carl-Heinz Moeller** - Ministry of Environmental Affairs and Tourism, Namibia
+
 - **Peter Buss** and **Michelle Miller** – South African National Parks, South Africa
 
 - **Frederic Delsuc** – University of Montpellier, France
@@ -88,4 +90,8 @@ slug: "partners"
 - **Mary Seely** – Desert Research Foundation of Namibia, Namibia
 
 - **Roger Seymour** – University of Adelaide, Austrlia
+
+- **Gabrielle Stalder** and **Johanna Painer** - University of Veterinary Medicine, Austria
+
+- **Gus van Dyk** and **Dylan Smith** - Tswalu Kalahari Reserve, South Africa
 
