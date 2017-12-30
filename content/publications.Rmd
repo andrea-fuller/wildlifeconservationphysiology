@@ -7,7 +7,7 @@ description: "A list of our most recent publications"
 ## 2017
 
 - BARNETT A, BRACCINI M, DUDGEON C, PAYNE N, ABRANTES KG, SHEAVES M, SNELLING E. The utility of bioenergetics modeling in quantifying predation rates of marine apex predators: ecological and fisheries implications.
-_Scientifc Reports_, **in press**.
+_Scientifc Reports_ **7**: 12982. DOI: [10.1038/s41598-017-13388-y](https://dx.doi.org/10.1038/s41598-017-13388-y)
 
 - BUSS P, MILLER M, FULLER A, HAW A, STOUT E, OLEA-POPELKA F, MEYER LCR. 
 Post-induction butorphanol administration alters oxygen consumption to improve blood gases in etorphine-immobilized white rhinoceros. 
@@ -23,6 +23,14 @@ _Journal of the South African Veterinary Association_ **88**: a1466, 2017. DOI [
 - HENZI SP, HETEM RS, FULLER A, MALONEY SK, YOUNG C, MITCHELL D, BARRETT L, McFARLAND R.
 Consequence of sex-specific sociability for thermoregulation in male vervet monkeys during winter.
 _Journal of Zoology_ **302**: 193-200, 2017. DOI: [10.1111/jzo.12448](https://doi.org/10.1111/jzo.12448)
+
+- KIRCHHOF S, HETEM RS, LEASE LM, MILES DB, MITCHELL D, MÜLLER J, RÖDEL M, SINERVO B, WASSENAAR T, MURRAY IW.
+Thermoregulatory behavior and high thermal preference buffer impact of climate change in a Namib Desert lizard.
+_Ecosphere_ **8**: e02033, 2017. DOI: [10.1002/ecs2.2033](https://doi.org/10.1002/ecs2.2033)
+
+- MALONEY SK, MARSH MK, MCLEOD SR, FULLER A. 
+Heterothermy is associated with reduced fitness in wild rabbits. 
+_Biology Letters_ **13**: 20170521, 2017. DOI: [10.1098/rsbl.2017.0521](https://doi.org/10.1098/rsbl.2017.0521)
 
 - MITCHELL D, LABURN HP.
 South African thermal physiology: highlights from the 20th Century. **In:** History of thermal physiology, Blatteis CM (editor). _American Physiological Society Perspectives in Physiology Series_. New York, Springer, **in press**. 
@@ -41,7 +49,7 @@ _Biology Letters_ **13**: 20170301, 2017. DOI: [10.1098/rsbl.2017.0301](https://
 
 - SNELLING EP, HU Q, TAGGART DA, FULLER A, MITCHELL D, FARRELL AP, MALONEY SK, SEYMOUR RS.
 Scaling of the ankle extensor muscle-tendon units and the biomechanical implications for bipedal hopping locomotion in the post-pouch kangaroo Macropus fuliginosus.
-_Journal of Anatomy_, **in press**. 
+_Journal of Anatomy_, **231**: 921-930, 2017. DOI: [10.1111/joa.12715](https://doi.org/10.1111/joa.12715)
 
 - STRAUSS WM, HETEM RS, MITCHELL D, MALONEY SK, O’BRIEN H, MEYER LCR, FULLER A.
 Body water conservation through selective brain cooling by the carotid rete: a physiological feature for surviving climate change?
