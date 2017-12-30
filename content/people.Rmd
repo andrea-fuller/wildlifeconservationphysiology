@@ -13,7 +13,7 @@ slug: "people"
 <div class="container">
 <b>Andrea Fuller</b> (PhD) 
 <br><a href="mailto:andrea.fuller@wits.ac.za">andrea.fuller@wits.ac.za</a> 
-<p style="max-width:230px;text-align:left">Andrea is director of the research group and a Professor in the School of Physiology at the University of the Witwatersrand, and an Extraordinary Lecturer in the Department of Paraclinical Sciences at the University of </p>
+<p style="max-width:230px;text-align:left">Andrea is director of the research group and a Professor in the School of Physiology at the University of the Witwatersrand, and an Extraordinary Lecturer in the Department of Paraclinical Sciences at the University of Pretoria.</p>
 </div>
 </div>
 <!-- Robyn Hetem  -->
