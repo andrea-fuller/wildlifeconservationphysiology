@@ -100,7 +100,7 @@ slug: "people"
 </div>
 <!-- end postdoc flex container -->
 
-## Technical staff
+## Technical staff & NRF interns
 <!-- start tech staff flex container -->
 <div class="flex-container"> 
 
@@ -113,13 +113,22 @@ slug: "people"
 <p style="max-width:230px;text-align:left">Tapiwa is a senior technician in the group.</p>
 </div>
 </div>
-<!-- Tanja van de Ven  -->
+<!-- Zipho Zwane  -->
 <div class="card flex-item">
 <img src="../img/people/zipho-zwane.jpg" class="img-circle" style="width:50%;">
 <div class="container">
 <b>Zipho Zwane</b>
 <br><a href="mailto:zipho.zwane@wits.ac.za">zipho.zwane@wits.ac.za</a> 
 <p style="max-width:230px;text-align:left">Zipho is a technician in the group.</p>
+</div>
+</div>
+<!-- Valery Phakoago  -->
+<div class="card flex-item">
+<img src="../img/people/valery-phakoago.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Valery Phakoago</b>
+<br><a href="mailto:valery.phakoago@wits.ac.za">valery.phakoago@wits.ac.za</a> 
+<p style="max-width:230px;text-align:left">Valery is an NRF intern.</p>
 </div>
 </div>
 
@@ -159,15 +168,6 @@ slug: "people"
 </p>
 </div>
 </div>
-<!-- Sophie Collier  -->
-<div class="card flex-item">
-<img src="../img/people/sophie-collier.jpg" class="img-circle" style="width:50%;">
-<div class="container">
-<b>Sophie Collier</b> 
-<br><a href="mailto:SophieCollier2@hotmail.com">SophieCollier2@hotmail.com</a> 
-<p style="max-width:230px;text-align:left"><span style="color:red;">PhD candidate</span>: Behavioural flexibility of chacma baboons in a changing thermal world.</p>
-</div>
-</div>
 <!-- Kiara Haylock -->
 <div class="card flex-item">
 <img src="../img/people/kiara-haylock.jpg" class="img-circle" style="width:50%;">
@@ -175,15 +175,6 @@ slug: "people"
 <b>Kiara Haylock</b>
 <br><a href="mailto:kiara.haylock1@gmail.com">kiara.haylock1@gmail.com</a> 
 <p style="max-width:230px;text-align:left"><span style="color:red;">PhD candidate</span>: Flexibility of body temperature and behaviour in sable antelope.</p>
-</div>
-</div>
-<!-- Kimberly Jardine  -->
-<div class="card flex-item">
-<img src="../img/people/kimberly-jardine.jpg" class="img-circle" style="width:50%;">
-<div class="container">
-<b>Kimberly Jardine</b> 
-<br><a href="mailto:kimberlyjardin1@gmail.com">kimberlyjardine1@gmail.com</a> 
-<p style="max-width:230px;text-align:left"><span style="color:red;">PhD candidate</span>: Physiological consequences of immobilization and translocation for antelope.</p>
 </div>
 </div>
 <!-- Wendy Panaino  -->
@@ -202,15 +193,6 @@ slug: "people"
 <b>Carmen Roberts</b> 
 <br><a href="mailto:carmen.roberts101@yahoo.com">carmen.roberts@yahoo.com</a> 
 <p style="max-width:230px;text-align:left"><span style="color:red;">MSc candidate</span>: Effect of lactation on body temperatures of free-living vervet monkeys.</p>
-</div>
-</div>
-<!-- Nora Weyer  -->
-<div class="card flex-item">
-<img src="../img/people/nora-weyer.jpg" class="img-circle" style="width:50%;">
-<div class="container">
-<b>Nora Weyer</b> 
-<br><a href="mailto:weyer.nora@gmail.com">weyer.nora@gmail.com</a> 
-<p style="max-width:230px;text-align:left"><span style="color:red;">PhD candidate</span>: Physiological plasticity of free-living aardvark (<em>Orycteropus afer</em>) during changes in climate and resource availability.</p>
 </div>
 </div>
 <!-- Gareth Zeiler  -->
@@ -309,6 +291,16 @@ slug: "people"
 <b>Maartin Strauss</b>
 <p style="max-width:230px;text-align:left"><em>Senior Lecturer, University of South Africa (UNISA), South Africa</em>
 <br><span style="color:red;">PhD</span> (2017): Water conservation strategies of large African ungulates.</p>
+</div>
+</div>
+<!-- Nora Weyer  -->
+<div class="card flex-item">
+<img src="../img/people/nora-weyer.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Nora Weyer</b> 
+<br><a href="mailto:weyer.nora@gmail.com">weyer.nora@gmail.com</a> 
+<p style="max-width:230px;text-align:left"><em>Project Officer, International Panel for Climate Change, Germany</em>
+<br><span style="color:red;">PhD</span> (2018): Physiological plasticity of free-living aardvark (<em>Orycteropus afer</em>) during changes in climate and resource availability.</p>
 </div>
 </div>
 
