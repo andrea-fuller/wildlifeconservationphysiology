@@ -10,17 +10,25 @@ description: "A list of our most recent publications"
 Post-induction butorphanol administration alters oxygen consumption to improve blood gases in etorphine-immobilized white rhinoceros. _Veterinary Anaesthesia and Analgesia_ **45**:57-67, 2018. DOI:
 [10.1016/j.vaa.2017.03.008](https://dx.doi.org/10.1016/j.vaa.2017.03.008){target="_blank"}
 
-- HARDING, LE, SMITH FA, MURRAY IW, LEASE HM, MARTIN JT. Heat, sex and death: the curious tale of a desert mammal. **In:** Rowland S. (editor). _Natural History of Death Valley and the Mojave Desert_. University of California, USA: Berkeley Press, **in press**.
-
 - HETEM RS, MITCHELL D, DE WITT BA, FICK LG, MEYER LCR, MALONEY SK, FULLER A. Body temperature, activity patterns, and hunting in free-living cheetah: biologging reveals new insights. _Integrative Zoology_, **in press**. DOI: [10.1111/1749-4877.12341](https://doi.org/10.1111/1749-4877.12341){target="_blank"}
 
-- HU Q, SNELLING E, SEYMOUR RS. Femoral bone perfusion during growth and locomotory development of the western grey kangaroo Macropus fuliginosus. _Journal of Experimental Biology_ **221**:jeb168625, 2018. DOI: [10.1242/jeb.168625](https://doi.org/10.1242/jeb.168625){target="_blank"}
+- HU Q, SNELLING E, SEYMOUR RS. Femoral bone perfusion during growth and locomotory development of the western grey kangaroo Macropus fuliginosus. _Journal of Experimental Biology_ **221**: jeb168625, 2018. DOI: [10.1242/jeb.168625](https://doi.org/10.1242/jeb.168625){target="_blank"}
 
-- MITCHELL D. Conserving diggers: from gold miners to aardvarks. _Journal of Conservation Physiology_ **6**:coy024, 2018. DOI: [10.1093/conphys/coy024](https://doi.org/10.1093/conphys/coy024){target="_blank"}
+- IZWAN A, SNELLING EP, SEYMOUR RS, MEYER LCR, FULLER A, HAW, A, MITCHELL D, FARRELL AP, COSTELLO M-A, MALONEY SK. Ameliorating the adverse cardiorespiratory effects of chemical immobilization by inducing general anaesthesia in sheep and goats: implications for physiological studies of large wild animals. _Journal of Comparative Physiology_ **188**: 991-1003, 2018. DOI: [10.1007/s00360-018-1184-z](https://doi.org/10.1007/s00360-018-1184-z){target="_blank"}
 
-- MITCHELL D, LABURN HP. South African thermal physiology: highlights from the 20th Century. **In:** History of thermal physiology, Blatteis CM (editor). _American Physiological Society Perspectives in Physiology Series_. New York, Springer, **in press**. 
+- MEYER LCR, FULLER A, HOFMEYR M, BUSS P, MILLER M, HAW A. Use of butorphanol and diprenorphine to counter respiratory impairment in the immobilised white rhinoceros _(Ceratotherium simum)_. _Journal of the South African Veterinary Association_ **89**: 1-8, 2018. DOI: [10.4102/jsava.v89i0.1683](https://doi.org/10.4102/jsava.v89i0.1683){target="_blank"}
 
-- MITCHELL D, SNELLING EP, HETEM RS, MALONEY SK, STRAUSS WM, FULLER A. Revisiting concepts of thermal physiology: predicting responses of mammals to climate change. _Journal of Animal Ecology_, **in press**. DOI: [10.1111/1365-2656.12818](https://doi.org/10.1111/1365-2656.12818){target="_blank"}
+- MINKNER MMI, YOUNG C, AMICI F, MCFARLAND R, BARRETT L, GROBLER JP, HENZI SP, WIDDIG A. Assessment of male reproductive skew via highly polymorphic STR markers in wild vervet monkey, _Chlorocebus pygerythrus_. _Journal of Heredity_ **109**: 780-790, 2018. DOI: [10.1093/jhered/esy048](https://doi.org/10.1093/jhered/esy048){target="_blank"}
+
+- MITCHELL D. Conserving diggers: from gold miners to aardvarks. _Conservation Physiology_ **6**: coy024, 2018. DOI: [10.1093/conphys/coy024](https://doi.org/10.1093/conphys/coy024){target="_blank"}
+
+- MITCHELL D, SNELLING EP, HETEM RS, MALONEY SK, STRAUSS WM, FULLER A. Revisiting concepts of thermal physiology: predicting responses of mammals to climate change. _Journal of Animal Ecology_, **87**: 956-973, 2018. DOI: [10.1111/1365-2656.12818](https://doi.org/10.1111/1365-2656.12818){target="_blank"}
+
+- MOLE MA, DÁRAUJO SR, VAN AARDE RJ, MITCHELL D, FULLER. A Savanna elephants maintain homeothermy under African heat. _Journal of Comparative Physiology B_ **188**: 889-897, 2018. DOI: [10.1007/s00360-018-1170-5](https://doi.org/10.1007/s00360-018-1170-5){target="_blank"}
+
+- SEYMOUR RS AND SNELLING E. Calculating brain perfusion of primates. _Journal of Human Evolution_ **in press**. DOI: [10.1016/j.jhevol.2018.06.001](https://doi.org/10.1016/j.jhevol.2018.06.001){target="_blank"}
+
+- SNELLING EP, MALONEY SK, FARRELL AP, MEYER LCR, IZWAN A, FULLER A, MITCHELL D, HAW A, COSTELLO M-A, SEYMOUR RS. Scaling of morphology and ultrastructure of hearts among wild African antelope. _Journal of Experimental Biology_ **221**: jeb184713, 2018. DOI: [10.1242/jeb.184713](https://doi.org/10.1242/jeb.184713){target="_blank"}
 
 ## 2017
 

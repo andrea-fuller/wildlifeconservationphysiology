@@ -61,6 +61,15 @@ slug: "people"
 <p style="max-width:230px;text-align:left">Duncan is Emeritus Professor and Honorary Professorial Research Fellow in the School of Physiology at the University of the Witwatersrand, and an Adjunct Professor in the School of Human Sciences at the University of Western Australia.</p>
 </div>
 </div>
+<!-- Ned Snelling -->
+<div class="card flex-item">
+<img src="../img/people/edward-snelling.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Edward Snelling</b> (PhD) 
+<br><a href="mailto:edward.snelling@up.ac.za">edward.snelling@up.ac.za</a> 
+<p style="max-width:230px;text-align:left">Edward (Ned) is a lecturer in the Department of Anatomy and Physiology in the Faculty of Veterinary Science at the University of Pretoria, South Africa, and an Honorary Research Fellow in the School of Physiology at the University of the Witwatersrand.</p>
+</div>
+</div>
 <!-- Benjamin Rey  -->
 <div class="card flex-item">
 <img src="../img/people/7-benjamin-rey.jpg" class="img-circle" style="width:50%;">
@@ -78,15 +87,6 @@ slug: "people"
 <!-- start postdoc flex container -->
 <div class="flex-container"> 
 
-<!-- Ned Snelling -->
-<div class="card flex-item">
-<img src="../img/people/edward-snelling.jpg" class="img-circle" style="width:50%;">
-<div class="container">
-<b>Edward Snelling</b> (PhD) 
-<br><a href="mailto:edward.snelling@wits.ac.za">edward.snelling@wits.ac.za</a> 
-<p style="max-width:230px;text-align:left">Ned, a Claude Leon Foundation postdoctoral fellow, is a comparative physiologist with an interest in understanding the relationships between structure and function across a range of species. He obtained his PhD at the University of Adelaide, under the supervision of the eminent comparative physiologist, Roger Seymour.</p>
-</div>
-</div>
 <!-- Tanja van de Ven  -->
 <div class="card flex-item">
 <img src="../img/people/tanja-vandeven.jpg" class="img-circle" style="width:50%;">
@@ -96,7 +96,15 @@ slug: "people"
 <p style="max-width:230px;text-align:left">Tanja studied the responses of birds to heat during her PhD at the University of Cape Town, under the supervision of Susie Cunningham and Andrew McKechnie. Having lived in the Kalahari for much of that time, she extends her interests now to understand how mammals in hot, arid environments will cope with climate change.</p>
 </div>
 </div>
-
+<!-- Vinicius Fonseca  -->
+<div class="card flex-item">
+<img src="../img/people/vinicius-fonseca.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Vinicius Fonseca</b> (PhD) 
+<br><a href="mailto:vinicius.fonseca@wits.ac.za">vinicius.fonseca@wits.ac.za</a> 
+<p style="max-width:230px;text-align:left">Vinicius studied heat exchange in livestock for his PhD at the University of São Paulo, Brazil. Vinicius will be extending his skills for making remote phsyiological measurements using biologging techology.</p>
+</div>
+</div>
 </div>
 <!-- end postdoc flex container -->
 
@@ -113,15 +121,6 @@ slug: "people"
 <p style="max-width:230px;text-align:left">Tapiwa is a senior technician in the group.</p>
 </div>
 </div>
-<!-- Zipho Zwane  -->
-<div class="card flex-item">
-<img src="../img/people/zipho-zwane.jpg" class="img-circle" style="width:50%;">
-<div class="container">
-<b>Zipho Zwane</b>
-<br><a href="mailto:zipho.zwane@wits.ac.za">zipho.zwane@wits.ac.za</a> 
-<p style="max-width:230px;text-align:left">Zipho is a technician in the group.</p>
-</div>
-</div>
 <!-- Valery Phakoago  -->
 <div class="card flex-item">
 <img src="../img/people/valery-phakoago.jpg" class="img-circle" style="width:50%;">
@@ -129,6 +128,15 @@ slug: "people"
 <b>Valery Phakoago</b>
 <br><a href="mailto:valery.phakoago@wits.ac.za">valery.phakoago@wits.ac.za</a> 
 <p style="max-width:230px;text-align:left">Valery is an NRF intern.</p>
+</div>
+</div>
+<!-- Zipho Zwane  -->
+<div class="card flex-item">
+<img src="../img/people/zipho-zwane.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Zipho Zwane</b>
+<br><a href="mailto:zipho.zwane@wits.ac.za">zipho.zwane@wits.ac.za</a> 
+<p style="max-width:230px;text-align:left">Zipho is a technician in the group.</p>
 </div>
 </div>
 
@@ -149,15 +157,6 @@ slug: "people"
 </p>
 </div>
 </div>
-<!-- Melinda Boyers  -->
-<div class="card flex-item">
-<img src="../img/people/melinda-boyers.jpg" class="img-circle" style="width:50%;">
-<div class="container">
-<b>Melinda Boyers</b> 
-<br><a href="mailto:boyers21@gmail.com">boyers21@gmail.com</a> 
-<p style="max-width:230px;text-align:left"><span style="color:red;">PhD candidate</span>: A comparative study of movement and thermoregulatory responses of blue wildebeest and gemsbok to aridity.</p>
-</div>
-</div>
 <!-- Jessica Briner -->
 <div class="card flex-item">
 <img src="../img/people/jessica-briner.jpg" class="img-circle" style="width:50%;">
@@ -175,6 +174,15 @@ slug: "people"
 <b>Kiara Haylock</b>
 <br><a href="mailto:kiara.haylock1@gmail.com">kiara.haylock1@gmail.com</a> 
 <p style="max-width:230px;text-align:left"><span style="color:red;">PhD candidate</span>: Flexibility of body temperature and behaviour in sable antelope.</p>
+</div>
+</div>
+<!-- Zach Mills -->
+<div class="card flex-item">
+<img src="../img/people/zach-mills.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Zach Mills</b>
+<br><a href="mailto:2068817@students.wits.ac.za">2068817@students.wits.ac.za</a> 
+<p style="max-width:230px;text-align:left"><span style="color:red;">MSc candidate</span>: Body temeprature and activity patterns in free-living hyaenas.</p>
 </div>
 </div>
 <!-- Wendy Panaino  -->
@@ -228,6 +236,15 @@ slug: "people"
 <b>Shaun D’Araujo</b>
 <p style="max-width:230px;text-align:left"><em>Guide, Londolozi Game Reserve, South Africa</em>
 <br><span style="color:red;">MSc</span> (2016): The relationship between body and environmental temperatures in savanna elephants (<em>Loxodonta africana</em>).</p>
+</div>
+</div>
+<!-- Melinda Boyers  -->
+<div class="card flex-item">
+<img src="../img/people/melinda-boyers.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Melinda Boyers</b> 
+<p style="max-width:230px;text-align:left"><em>Postdoctoral Fellow, University of the Witwatersrand, South Africa</em>
+<br><span style="color:red;">PhD</span> (2018): A comparative study of movement and thermoregulatory responses of blue wildebeest and gemsbok to aridity.</p>
 </div>
 </div>
 <!-- Stephanie de Lange -->
@@ -298,7 +315,6 @@ slug: "people"
 <img src="../img/people/nora-weyer.jpg" class="img-circle" style="width:50%;">
 <div class="container">
 <b>Nora Weyer</b> 
-<br><a href="mailto:weyer.nora@gmail.com">weyer.nora@gmail.com</a> 
 <p style="max-width:230px;text-align:left"><em>Project Officer, International Panel for Climate Change, Germany</em>
 <br><span style="color:red;">PhD</span> (2018): Physiological plasticity of free-living aardvark (<em>Orycteropus afer</em>) during changes in climate and resource availability.</p>
 </div>
