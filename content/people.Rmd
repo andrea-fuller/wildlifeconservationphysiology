@@ -61,7 +61,24 @@ slug: "people"
 <p style="max-width:230px;text-align:left">Duncan is Emeritus Professor and Honorary Professorial Research Fellow in the School of Physiology at the University of the Witwatersrand, and an Adjunct Professor in the School of Human Sciences at the University of Western Australia.</p>
 </div>
 </div>
-
+<!-- Ned Snelling -->
+<div class="card flex-item">
+<img src="../img/people/7-edward-snelling.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Edward Snelling</b> (PhD) 
+<br><a href="mailto:edward.snelling@up.ac.za">edward.snelling@up.ac.za</a> 
+<p style="max-width:230px;text-align:left">Edward (Ned) is a lecturer in the Department of Anatomy and Physiology in the Faculty of Veterinary Science at the University of Pretoria, South Africa, and an Honorary Research Fellow in the School of Physiology at the University of the Witwatersrand.</p>
+</div>
+</div>
+<!-- Benjamin Rey  -->
+<div class="card flex-item">
+<img src="../img/people/8-benjamin-rey.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Benjamin Rey</b> (PhD) 
+<br><a href="mailto:benjamin.rey@univ-lyon1.fr">benjamin.rey@univ-lyon1.fr</a> 
+<p style="max-width:230px;text-align:left">Benjamin is a Research Assistant at the Biometry and Evolutionary Biology Laboratory at the University of Lyon, in France, and an Honorary Research Fellow in the School of Physiology at the University of the Witwatersrand.</p>
+</div>
+</div>
 </div>
 <!-- end staff flex container -->
 
