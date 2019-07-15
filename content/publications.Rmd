@@ -4,13 +4,35 @@ slug: "publications"
 description: "A list of our most recent publications"
 ---
 
+## 2019
+
+- BOTHA A, LEASE HM, FULLER A, MITCHELL D, HETEM RS. Biologging as a method to remotely detect orientation to solar radiation in black and blue wildebeest. _Journal of Experimental Zoology_ **331**: 267-279, 2019. DOI: [10.1002/jez.2267](https://doi.org/10.1002/jez.2267){target="_blank"}
+
+- FONSECA VDFC, MAIA ASC, SARAIVA EP, DE MELO COSTA CC, SILVA RG, ABDOUN KA, ALHAIDARY A, SAMARA EM, FULLER A. Bio-thermal responses and heat balance of a hair coat sheep breed raised under an equatorial semi-arid environment. _Journal of Thermal Biology_ **84**:83-91, 2019. DOI: [10.1016/j.jtherbio.2019.05.024](https://doi.org/10.1016/j.jtherbio.2019.05.024){target="_blank"}
+
+- FONSECA VFC, SARAIVA EP, MAIA ASC, DE MELO COSTA CC, DOS SANTOS SGCG, MORAIS LKC, FULLER A, NETO MC. Training sheep for indirect calorimetry trials. _Small Ruminant Research_ **177**:36-43, 2019. DOI: [10.1016/j.smallrumres.2019.06.010](https://doi.org/10.1016/j.smallrumres.2019.06.010){target="_blank"}
+
+- HETEM RS, MITCHELL D, DE WITT BA, FICK LG, MEYER LCR, MALONEY SK, FULLER A. Body temperature, activity patterns, and hunting in free-living cheetah: biologging reveals new insights. _Integrative Zoology_, **14**:30-47, 2019. DOI: [10.1111/1749-4877.12341](https://doi.org/10.1111/1749-4877.12341){target="_blank"}
+
+- MALONEY S, GOH G, FULLER A, VESTERDORF K, BLACHE D. Amplitude of the circadian rhythm of temperature in homeotherms. _CAB Reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural Resources_ **14**: 1-30, 2019. DOI: [10.1079/PAVSNNR201914019](http://dx.doi.org/10.1079/PAVSNNR201914019){target="_blank"}
+
+- SEYMOUR RS, HU Q, SNELLING EP, WHITE CR. Interspecific scaling of blood flow rates and arterial sizes in mammals. _Journal of Experimental Biology_ **222**: jeb199554, 2019. DOI: [10.1242/jeb.199554](https://doi.org/10.1242/jeb.199554){target="_blank"}
+
+- SEYMOUR RS, SNELLING EP. Calculation and miscalculation of brain perfusion of primates.
+_Journal of Human Evolution_ **128**: 99-102, 2019. DOI: [10.1016/j.jhevol.2018.06.001](https://doi.org/10.1016/j.jhevol.2018.06.001){target="_blank"}
+
+- SNELLING EP, SEYMOUR RS, GIUSSANI DA, FULLER A, MALONEY SK, FARRELL AP, MITCHELL D, GEORGE K, DZIALOWSKI EM, JONKER SS, WUBE T. Scaling of cardiac morphology is interrupted by birth in the developing sheep Ovis aries. _Journal of Anatomy_ **235**: 96-105, 2019. DOI: [10.1111/joa.12990](https://doi.org/10.1111/joa.12990){target="_blank"}
+
+- DA SILVA AL, DOS SANTOS SGCG, SARAIVA EP, FONSECA VDFC, GIVISIEZ PEN, PASCOAL LAF, MARTINS TDD, DE AMORIM MLCM. Supplementation of diets with glutamine and glutamic acid attenuated the effects of cold stress on intestinal mucosa and performance of weaned piglets. _Animal Production Science_, **in press**.
+
+- DE AMORIM MLCM, SARAIVA EP, VDFC FONSECA, GUERRA RR, DOS SANTOS SGCG, ALMEIDA MEV, MALONEY SK. Coat and skin morphology of hair sheep breeds in an equatorial semi-arid environment. _Journal of Thermal Biology_, **in press**.
+
+
 ## 2018
 
 - BUSS P, MILLER M, FULLER A, HAW A, STOUT E, OLEA-POPELKA F, MEYER LCR. 
 Post-induction butorphanol administration alters oxygen consumption to improve blood gases in etorphine-immobilized white rhinoceros. _Veterinary Anaesthesia and Analgesia_ **45**:57-67, 2018. DOI:
 [10.1016/j.vaa.2017.03.008](https://dx.doi.org/10.1016/j.vaa.2017.03.008){target="_blank"}
-
-- HETEM RS, MITCHELL D, DE WITT BA, FICK LG, MEYER LCR, MALONEY SK, FULLER A. Body temperature, activity patterns, and hunting in free-living cheetah: biologging reveals new insights. _Integrative Zoology_, **in press**. DOI: [10.1111/1749-4877.12341](https://doi.org/10.1111/1749-4877.12341){target="_blank"}
 
 - HU Q, SNELLING E, SEYMOUR RS. Femoral bone perfusion during growth and locomotory development of the western grey kangaroo Macropus fuliginosus. _Journal of Experimental Biology_ **221**: jeb168625, 2018. DOI: [10.1242/jeb.168625](https://doi.org/10.1242/jeb.168625){target="_blank"}
 
