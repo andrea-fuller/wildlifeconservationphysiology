@@ -73,6 +73,8 @@ slug: "partners"
 
 ## Collaborators
 
+- **Graham Alexander**, **Barend Erasmus**, **Norman Owen-Smith**, **Francesca Parrini** – University of the Witwatersrand, South Africa
+
 - **Louise Barrett** and **Peter Henzi** – University of Lethbridge, Canada
 
 - **Piet Beytell** and **Carl-Heinz Moeller** - Ministry of Environmental Affairs and Tourism, Namibia
@@ -83,9 +85,9 @@ slug: "partners"
 
 - **Frederic Delsuc** – University of Montpellier, France
 
-- **Barend Erasmus**, **Norman Owen-Smith**, **Francesca Parrini** – University of the Witwatersrand, South Africa
-
 - **David Gaynor** – University of Pretoria, South Africa
+
+- **Aliza le Roux** - University of the Free State, South Africa
 
 - **Mike Picker** – University of Cape Town, South Africa
 
