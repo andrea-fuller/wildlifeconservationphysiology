@@ -79,6 +79,8 @@ slug: "partners"
 
 - **Peter Buss** and **Michelle Miller** – South African National Parks, South Africa
 
+- **Tim Clutton-Brock** - University of Cambridge
+
 - **Frederic Delsuc** – University of Montpellier, France
 
 - **Barend Erasmus**, **Norman Owen-Smith**, **Francesca Parrini** – University of the Witwatersrand, South Africa

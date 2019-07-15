@@ -12,7 +12,7 @@ description: "A list of our most recent publications"
 
 - FONSECA VFC, SARAIVA EP, MAIA ASC, DE MELO COSTA CC, DOS SANTOS SGCG, MORAIS LKC, FULLER A, NETO MC. Training sheep for indirect calorimetry trials. _Small Ruminant Research_ **177**:36-43, 2019. DOI: [10.1016/j.smallrumres.2019.06.010](https://doi.org/10.1016/j.smallrumres.2019.06.010){target="_blank"}
 
-- HETEM RS, MITCHELL D, DE WITT BA, FICK LG, MEYER LCR, MALONEY SK, FULLER A. Body temperature, activity patterns, and hunting in free-living cheetah: biologging reveals new insights. _Integrative Zoology_, **14**:30-47, 2019. DOI: [10.1111/1749-4877.12341](https://doi.org/10.1111/1749-4877.12341){target="_blank"}
+- HETEM RS, MITCHELL D, DE WITT BA, FICK LG, MEYER LCR, MALONEY SK, FULLER A. Body temperature, activity patterns, and hunting in free-living cheetah: biologging reveals new insights. _Integrative Zoology_ **14**:30-47, 2019. DOI: [10.1111/1749-4877.12341](https://doi.org/10.1111/1749-4877.12341){target="_blank"}
 
 - MALONEY S, GOH G, FULLER A, VESTERDORF K, BLACHE D. Amplitude of the circadian rhythm of temperature in homeotherms. _CAB Reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural Resources_ **14**: 1-30, 2019. DOI: [10.1079/PAVSNNR201914019](http://dx.doi.org/10.1079/PAVSNNR201914019){target="_blank"}
 
