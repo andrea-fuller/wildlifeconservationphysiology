@@ -43,6 +43,12 @@ slug: "partners"
 <a href="http://www.omt.org.za/" title="Oppenheimer Memorial Trust" target="_blank"><img src="../img/partners/oppenheimer.jpg" class="img-responsive"></a>
 </div>
 </div>
+<!-- Suzuki -->
+<div class="card flex-item">
+<div class="container">
+<a href="https://www.suzukiauto.co.za/" title="Suzuki Foundation" target="_blank"><img src="../img/partners/suzuki.jpg" class="img-responsive"></a>
+</div>
+</div>
 <!-- Tswalu -->
 <div class="card flex-item">
 <div class="container">
@@ -71,31 +77,63 @@ slug: "partners"
 </div>
 <!-- end funder flex container -->
 
+## Partners
+<!-- start partners flex container -->
+<div class="flex-container"> 
+
+<!-- Briner -->
+<div class="card flex-item">
+<div class="container">
+<img src="../img/partners/briner.jpg" alt="Briner Veterinary Services">
+</div>
+</div>
+
+</div>
+<!-- end partners flex container -->
+
 ## Collaborators
 
-- **Graham Alexander**, **Barend Erasmus**, **Norman Owen-Smith**, **Francesca Parrini** – University of the Witwatersrand, South Africa
+### Local
 
-- **Louise Barrett** and **Peter Henzi** – University of Lethbridge, Canada
+- **Graham Alexander**, **Marcus Byrne**, **Barend Erasmus**, **Norman Owen-Smith**, **Francesca Parrini** – University of the Witwatersrand, South Africa
 
-- **Piet Beytell** and **Carl-Heinz Moeller** - Ministry of Environmental Affairs and Tourism, Namibia
+- **Nico Avenant** – National Museum Bloemfontein, South Africa
+
+- **Leslie Brown** and **Sellina Nkosi** – UNISA, South Africa
 
 - **Peter Buss** and **Michelle Miller** – South African National Parks, South Africa
 
-- **Tim Clutton-Brock** - University of Cambridge
+- **David Gaynor** – University of Pretoria, South Africa
+
+- **Aliza le Roux** – University of the Free State, South Africa
+
+- **Bryan Maritz** and **Robin Maritz** – University of Western Cape, South Africa
+
+- **Mike Picker** – University of Cape Town, South Africa
+
+- **Robert Thomson** – University of Cape Town, South Africa
+
+- **Gus van Dyk** and **Dylan Smith** – Tswalu Kalahari Reserve, South Africa
+
+
+### International
+
+- **Louise Barrett** and **Peter Henzi** – University of Lethbridge, Canada
+
+- **Mads Bertelsen** – Copenhagen Zoo, Denmark
+
+- **Piet Beytell** and **Carl-Heinz Moeller** – Ministry of Environmental Affairs and Tourism, Namibia
+
+- **Tim Clutton-Brock** – University of Cambridge, UK
 
 - **Frederic Delsuc** – University of Montpellier, France
 
-- **David Gaynor** – University of Pretoria, South Africa
-
-- **Aliza le Roux** - University of the Free State, South Africa
-
-- **Mike Picker** – University of Cape Town, South Africa
+- **Anna Haw**, **Johanna Painer** and **Gabrielle Stalder** – University of Veterinary Medicine, Austria
 
 - **Mary Seely** – Desert Research Foundation of Namibia, Namibia
 
 - **Roger Seymour** – University of Adelaide, Australia
 
-- **Gabrielle Stalder** and **Johanna Painer** - University of Veterinary Medicine, Austria
+- **Tobias Wang** – Aarhus University, Denmark
 
-- **Gus van Dyk** and **Dylan Smith** - Tswalu Kalahari Reserve, South Africa
-
+- **Rosie Woodroffe** – Zoological Society of London, UK
