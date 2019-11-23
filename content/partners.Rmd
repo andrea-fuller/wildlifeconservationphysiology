@@ -77,7 +77,7 @@ slug: "partners"
 </div>
 <!-- end funder flex container -->
 
-## Partners
+## Services
 <!-- start partners flex container -->
 <div class="flex-container"> 
 
