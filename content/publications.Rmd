@@ -20,7 +20,7 @@ Keeping cool in the heat: Behavioral thermoregulation and body temperature patte
 
 - MITCHELL D, HENSCHEL JR, HETEM RS, WASSENAAR TD, STRAUSS WM, HANRAHAN SA, SEELY MK. Fog and fauna of the Namib Desert: past and future. _Ecosphere_ **11**: e02996, 2020. DOI: [10.1002/ecs2.2996](https://doi.org/10.1002/ecs2.2996){target='_blank'}
 
-- VAN DE VEN TM, FULLER A, CLUTTON-BROCK T. Effects of climate change on pup growth and survival in a cooperative mammal, the meerkat. _Functional Ecology_ **34**: 194-202, 2020. DOI: [10.1111/1365-2435.13468](https://doi.org/10.1111/1365-2435.13468){target= '_blank'}
+- VAN DE VEN TM, FULLER A, CLUTTON-BROCK T. Effects of climate change on pup growth and survival in a cooperative mammal, the meerkat. _Functional Ecology_ **34**: 194-202, 2020. DOI: [10.1111/1365-2435.13468](https://doi.org/10.1111/1365-2435.13468){target='_blank'}
 
 - ZEILER G, FULLER A, RIOJA E, KAMERMAN P, BUCK RK, POHLIN F, DZIKITI B. Development of a severity scoring system for acute haemorrhage in anaesthetised domestic cats: The CABSS score. _Veterinary Anaesthesia and Analgesia_ **in press**. DOI: [10.1016/j.vaa.2019.11.008](https://doi.org/10.1016/j.vaa.2019.11.008){target='_blank'}
 
