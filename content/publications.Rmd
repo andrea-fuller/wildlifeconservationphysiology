@@ -4,6 +4,26 @@ slug: "publications"
 description: "A list of our most recent publications"
 ---
 
+## 2020
+
+- COOKE SJ, MADLIGER CL, CRAMP RL, BEARDALL J, BURNESS GP, CHOWN SL, CLARK TD, DANTZER B, DE LA BARRERA E, FANGUE NA, FRANKLIN CE, FULLER A, HAWKES LA, HULTINE KR, HUNT KE, LOVE OP, MACMILLAN HA, MANDELMAN JW, MARK FC, MARTIN LB, NEWMAN AEM, NICOTRA AB, ROBINSON SA, ROPERT-COUDERT D, RUMMER JL, SEEBACHER F, TODGHAM AE.Reframing conservation physiology to be more inclusive, integrative, relevant and forward-looking: reflections and a horizon scan.  
+_Conservation Physiology_ **8**: coaa016, 2020. DOI: [10.1093/conphys/coaa016](https://doi.org/10.1093/conphys/coaa016){target="_blank"}
+
+- FULLER A, MALONEY SK, BLACHE D, COOPER C.Endocrine and metabolic consequences of climate change for terrestrial mammals. _Current Opinion in Endocrine and Metabolic Research_ **11**: 9-14, 2020. DOI: [10.1016/j.coemr.2019.12.003](https://doi.org/10.1016/j.coemr.2019.12.003){target='_blank'}
+
+- FULLER A, HETEM R, MEYER LCR, MITCHELL D, MALONEY SK. Ultradian oscillations in brain temperature in sheep: implications for thermoregulatory control? `_Journal of Comparative Physiology B_ **190**: 135-138, 2020. DOI: [10.1007/s00360-019-01248-2](https://doi.org/10.1007/s00360-019-01248-2){target='_blank'}
+
+- HAW AJ, FULLER A, MEYER LCR. Using applied physiology to better manage and conserve the white rhinoceros (_Ceratotherium simum_). **In**: Conservation Physiology: Integrating Physiology into Animal Conservation and Management. Oxford University Press, UK, **in press**.
+
+- MCFARLAND R, BARRETT L, COSTELLO M-A, FULLER A, HETEM R, MALONEY S, MITCHELL D, PETER H.
+Keeping cool in the heat: Behavioral thermoregulation and body temperature patterns in wild vervet monkeys. _American Journal of Physical Anthropology_ **171**: 407-418, 2020. DOI: [10.1002/ajpa.23962](https://doi.org/10.1002/ajpa.23962){target='_blank'}
+
+- MITCHELL D, HENSCHEL JR, HETEM RS, WASSENAAR TD, STRAUSS WM, HANRAHAN SA, SEELY MK. Fog and fauna of the Namib Desert: past and future. _Ecosphere_ **11**: e02996, 2020. DOI: [10.1002/ecs2.2996](https://doi.org/10.1002/ecs2.2996){target='_blank'}
+
+- VAN DE VEN TM, FULLER A, CLUTTON-BROCK T. Effects of climate change on pup growth and survival in a cooperative mammal, the meerkat. _Functional Ecology_ **34**: 194-202, 2020. DOI: [10.1111/1365-2435.13468](https://doi.org/10.1111/1365-2435.13468){target= '_blank'}
+
+- ZEILER G, FULLER A, RIOJA E, KAMERMAN P, BUCK RK, POHLIN F, DZIKITI B. Development of a severity scoring system for acute haemorrhage in anaesthetised domestic cats: The CABSS score. _Veterinary Anaesthesia and Analgesia_ **in press**. DOI: [10.1016/j.vaa.2019.11.008](https://doi.org/10.1016/j.vaa.2019.11.008){target='_blank'}
+
 ## 2019
 
 - BOTHA A, LEASE HM, FULLER A, MITCHELL D, HETEM RS. Biologging as a method to remotely detect orientation to solar radiation in black and blue wildebeest. _Journal of Experimental Zoology_ **331**: 267-279, 2019. DOI: [10.1002/jez.2267](https://doi.org/10.1002/jez.2267){target="_blank"}
@@ -20,15 +40,9 @@ description: "A list of our most recent publications"
 
 - FONSECA VFC, SARAIVA EP, MAIA ASC, DE MELO COSTA CC, DOS SANTOS SGCG, MORAIS LKC, FULLER A, NETO MC. Training sheep for indirect calorimetry trials. _Small Ruminant Research_ **177**:36-43, 2019. DOI: [10.1016/j.smallrumres.2019.06.010](https://doi.org/10.1016/j.smallrumres.2019.06.010){target="_blank"}
 
-- FULLER A, HETEM R, MEYER LCR, MITCHELL D, MALONEY SK. Ultradian oscillations in brain temperature in sheep: implications for thermoregulatory control? _Journal of Comparative Physiology B_, **in press**.
-
 - HETEM RS, MITCHELL D, DE WITT BA, FICK LG, MEYER LCR, MALONEY SK, FULLER A. Body temperature, activity patterns, and hunting in free-living cheetah: biologging reveals new insights. _Integrative Zoology_ **14**:30-47, 2019. DOI: [10.1111/1749-4877.12341](https://doi.org/10.1111/1749-4877.12341){target="_blank"}
 
 - MALONEY S, GOH G, FULLER A, VESTERDORF K, BLACHE D. Amplitude of the circadian rhythm of temperature in homeotherms. _CAB Reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural Resources_ **14**: 1-30, 2019. DOI: [10.1079/PAVSNNR201914019](http://dx.doi.org/10.1079/PAVSNNR201914019){target="_blank"}
-
-- MCFARLAND R, BARRETT L, COSTELLO M-A, FULLER A, HETEM R, MALONEY S, MITCHELL D, PETER H. Keeping cool in the heat: Behavioral thermoregulation and body temperature patterns in wild vervet monkeys. _American Journal of Physical Anthropology_, **in press**. DOI: [10.1002/ajpa.23962](https://doi.org/10.1002/ajpa.23962){target="_blank"}
-
-- MITCHELL D, HENSCHEL JR, HETEM RS, WASSENAAR TD, STRAUSS WM, HANRAHAN SA, SEELY MK. Fog and fauna of the Namib Desert: past and future. _Ecosphere_, **in press**.
 
 - NASCIMENTO CCN, FONSECA VDFC, FULLER A, BELETTI ME, NASCIMENTO MRBDM. Can _Bos indicus_ cattle breeds be discriminated by differences in the changes of their sweat gland traits across summer and winter seasons? _Journal of Thermal Biology_ **86**: 102443, 2019. DOI: [10.1016/j.jtherbio.2019.102443](https://doi.org/10.1016/j.jtherbio.2019.102443){target="_blank"}
 
@@ -38,11 +52,6 @@ description: "A list of our most recent publications"
 _Journal of Human Evolution_ **128**: 99-102, 2019. DOI: [10.1016/j.jhevol.2018.06.001](https://doi.org/10.1016/j.jhevol.2018.06.001){target="_blank"}
 
 - SNELLING EP, SEYMOUR RS, GIUSSANI DA, FULLER A, MALONEY SK, FARRELL AP, MITCHELL D, GEORGE K, DZIALOWSKI EM, JONKER SS, WUBE T. Scaling of cardiac morphology is interrupted by birth in the developing sheep Ovis aries. _Journal of Anatomy_ **235**: 96-105, 2019. DOI: [10.1111/joa.12990](https://doi.org/10.1111/joa.12990){target="_blank"}
-
-- ZEILER G, FULLER A, RIOJA E, KAMERMAN P, BUCK RK, POHLIN F, DZIKITI B. Development of a severity scoring system for acute haemorrhage in anaesthetised domestic cats: The CABSS score. _Veterinary Anaesthesia and Analgesia_, **in press**.
-
-- VAN DE VEN TM, FULLER A, CLUTTON-BROCK T. Effects of climate change on pup growth and survival in a cooperative mammal, the meerkat. _Functional Ecology_, **in press**. DOI: [10.1111/1365-2435.13468](https://doi.org/10.1111/1365-2435.13468){target="_blank"} 
-
 
 ## 2018
 

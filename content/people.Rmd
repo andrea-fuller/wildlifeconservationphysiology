@@ -105,6 +105,15 @@ slug: "people"
 <p style="max-width:230px;text-align:left">Tanja studied the responses of birds to heat during her PhD at the University of Cape Town, under the supervision of Susie Cunningham and Andrew McKechnie. Having lived in the Kalahari for much of that time, she extends her interests now to understand how mammals in hot, arid environments will cope with climate change.</p>
 </div>
 </div>
+<!-- Keafon Jumbam  -->
+<div class="card flex-item">
+<img src="../img/people/keafon-jumbam.jpg" class="img-circle" style="width:50%;">
+<div class="container">
+<b>Keafon Jumbam</b> (PhD) 
+<br><a href="mailto:2014001842@ufs4life.ac.za">2014001842@ufs4life.ac.za</a> 
+<p style="max-width:230px;text-align:left">Keafon is originally from Cameroon, but has spent many years studying in South Africa. Her research interests range from the thermal tolerances of insects to the diet of bat-eared foxes. For her postdoctoral fellowship she will investigate how wild dogs are responding to climate change, working in collaboration with a big international team.</p>
+</div>
+</div>
 
 </div>
 <!-- end postdoc flex container -->
