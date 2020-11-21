@@ -95,7 +95,7 @@ slug: "partners"
 
 ### Local
 
-- **Graham Alexander**, **Marcus Byrne**, **Barend Erasmus**, **Norman Owen-Smith**, **Francesca Parrini** – University of the Witwatersrand, South Africa
+- **Graham Alexander**, **Marcus Byrne**, **Robyn Hetem** and **Francesca Parrini** – University of the Witwatersrand, South Africa
 
 - **Nico Avenant** – National Museum Bloemfontein, South Africa
 
@@ -115,6 +115,8 @@ slug: "partners"
 
 - **Gus van Dyk** and **Dylan Smith** – Tswalu Kalahari Reserve, South Africa
 
+- **Anel Engelbrecht** – Western Cape Department of Agriculture, South Africa
+
 
 ### International
 
@@ -122,13 +124,11 @@ slug: "partners"
 
 - **Mads Bertelsen** – Copenhagen Zoo, Denmark
 
-- **Piet Beytell** and **Carl-Heinz Moeller** – Ministry of Environmental Affairs and Tourism, Namibia
-
 - **Tim Clutton-Brock** – University of Cambridge, UK
 
 - **Frederic Delsuc** – University of Montpellier, France
 
-- **Anna Haw**, **Johanna Painer** and **Gabrielle Stalder** – University of Veterinary Medicine, Austria
+- **Johanna Painer** and **Gabrielle Stalder** – University of Veterinary Medicine, Austria
 
 - **Mary Seely** – Desert Research Foundation of Namibia, Namibia
 
