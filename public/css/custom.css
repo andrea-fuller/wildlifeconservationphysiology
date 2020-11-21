@@ -1,0 +1,39 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.card {
+    box-shadow: none; /* 0 4px 8px 0 rgba(0,0,0,0.2); */
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    max-width: 250px;
+}
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100%;
+}
+
+.flex-item {
+    flex: 0 1 auto;
+    width: 100%;
+    height: 100%;
+    margin: 10px
+}
+
