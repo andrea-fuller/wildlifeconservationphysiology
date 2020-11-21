@@ -33,7 +33,7 @@ Keeping cool in the heat: Behavioral thermoregulation and body temperature patte
 
 - VAN DE VEN TM, FULLER A, CLUTTON-BROCK T. Effects of climate change on pup growth and survival in a cooperative mammal, the meerkat. _Functional Ecology_ **34**: 194-202, 2020. DOI: [10.1111/1365-2435.13468](https://doi.org/10.1111/1365-2435.13468){target='_blank'}
 
-- WEYER NM, FULLER A, HAW A, MEYER LCR, MITCHELL D, PICKER MD, REY B, HETEM RS. Increased diurnal activity is indicative of energy deficit in a nocturnal mammal, the aardvark. _Frontiers in Physiology_ **11**: 637, 1-15, 2020. DOI: [10.3389/fphys.2020.00637](https://dx.doi.org/10.3389/fphys.2020.00637){target='_blank'}
+- WEYER NM, FULLER A, HAW A, MEYER LCR, MITCHELL D, PICKER MD, REY B, HETEM RS. Increased diurnal activity is indicative of energy deficit in a nocturnal mammal, the aardvark. _Frontiers in Physiology_ **11**: 637, 2020. DOI: [10.3389/fphys.2020.00637](https://dx.doi.org/10.3389/fphys.2020.00637){target='_blank'}
 
 - ZEILER G, FULLER A, RIOJA E, KAMERMAN P, BUCK RK, POHLIN F, DZIKITI B. Development of a severity scoring system for acute haemorrhage in anaesthetised domestic cats: The CABSS score. _Veterinary Anaesthesia and Analgesia_ **47**: 499-508, 2020. DOI: [10.1016/j.vaa.2019.11.008](https://doi.org/10.1016/j.vaa.2019.11.008){target='_blank'}
 
