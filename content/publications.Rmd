@@ -6,7 +6,25 @@ description: "A list of our most recent publications"
 
 ## 2021
 
-- HAW AJ, FULLER A, MEYER LCR. Using applied physiology to better manage and conserve the white rhinoceros (Ceratotherium simum). In: “Conservation Physiology: Integrating Physiology into Animal Conservation and Management", 2021, Oxford University Press.
+- ANDERSON V, LEUNG AC, MEHDIPOOR H, JÄNICKE B, MILOŠEVIĆ D, OLIVEIRA A, MANAVVI S, KABANO P, DZYUBAN Y, AGUILAR R, AGAN PN, KUNDA JJ, GARCIA-CHAPETON G, FONSÊCA VDFC, NASCIMENTO ST, ZURITA-MILLA R. Technological opportunities for sensing of the health effects of weather and climate change: a state-of-the-art-review. _International Journal of Biometeorology_ [online ahead of print], 2021. DOI: [](){target="_blank"}
+https://link.springer.com/article/10.1007/s00484-020-02063-z
+
+- BOYERS M, PARRINI F, OWEN-SMITH N, ERASMUS BFN, HETEM RS. Contrasting capabilities of two ungulate species to cope with extremes of aridity. _Scientific Reports_ **11**: 4216, 2021. DOI: [10.1038/s41598-021-83732-w](https://doi.org/10.1038/s41598-021-83732-w){target="_blank"}
+
+- COOKE SJ, CRAMP RL, MADLIGER CL, BERGMAN JN, REEVE C, RUMMER JL, HULTINE KR, FULLER A, FRENCH SS, FRANKLIN CE. Conversation physiology and the COVID-19 pandemic. _Conservation Physiology_ **9**: coaa139, 2021. DOI: [10.1093/conphys/coaa139](https://doi.org/10.1093/conphys/coaa139){target="_blank"}
+
+- COOKE SJ, BERGMAN JN, MADLIGER CL, CRAMP RL, BEARDALL J, BURNESS G, CLARK TD, DANTZER B, DE LA BARRERA E, FANGUE NA, FRANKLIN CE, FULLER A, HAWKES LA, HULTINE KR, HUNT KE, LOVE OP, MACMILLAN HA, MANDELMAN JW, MARK FC, MARTIN LB, NEWMAN AEM, NICOTRA AB, RABY GD, ROBINSON SA, ROPERT-COUDERT Y, RUMMER JL, SEEBACHER F, TODGHAM AE, TOMLINSON S, CHOWN SL. One hundred research questions in conservation physiology for generating actionable evidence to inform conservation policy and practice. _Conservation Physiology_ **9**, coab009, 2021.DOI: [10.1093/conphys/coab009](https://doi.org/10.1093/conphys/coab009){target=_blank}
+
+- FULLER A, MITCHELL D, MALONEY SK, HETEM RS, FONSÊCA VDFC, MEYER LCR, VAN DE VEN TMFN, SNELLING EP. How dryland mammals will respond to climate change: the effects of body size, heat load and lack of food and water. _Journal of Experimental Biology_ **224**: jeb238113, 2021. DOI: [10.1242/jeb.238113](https://doi.org/10.1242/jeb.238113){target="_blank"}
+
+ - HAW AJ, FULLER A, MEYER LCR. Using applied physiology to better manage and conserve the white rhinoceros (Ceratotherium simum). In: “Conservation Physiology: Integrating Physiology into Animal Conservation and Management", 2021, Oxford University Press. DOI: [10.1093/oso/9780198843610.003.0017](http://dx.doi.org/10.1093/oso/9780198843610.003.0017){target="_blank"}
+ 
+- MOURA GAB, DE MELO COSTA CC, FONSÊCA VDFC, WIJFFELS G, CASTRO PA, NETO MC, MAIA ASC. Are crossbred cattle (F1, Bos indicus x Bos taurus) thermally different to the purebred Bos indicus cattle under moderate conditions? _Livestock Science_ **249**: 104457, 2021
+DOI: [10.1016/j.livsci.2021.104457](https://doi.org/10.1016/j.livsci.2021.104457){target="_blank"} 
+
+- SEJIAN V, SILPA MV, RESHMA NAIR MR, DEVARAJ C, KRISHNAN G, BAGATH M, CHAUHAN SS, SUGANTHI RU, FONSÊCA VDFC, KÖNIG S, GAUGHAN JB. Heat stress and goat welfare: adaptation and production considerations. _Animals_ **11**: 1021, 2021. DOI: [10.3390/ani11041021](https://doi.org/10.3390/ani11041021){target="_blank"} 
+
+- VAN JAARSVELD B, BENNETT NC, CZENZE ZJ, KEMP R, VAN DE VEN TMFN, CUNNINGHAM SJ, MCKECHNIE AE. How hornbills handle heat: sex-specific thermoregulation in the southern yellow-billed hornbill. _Journal of Experimental Biology_ **224**: jeb232777, 2021. DOI: [10.1242/jeb.232777](https://doi.org/10.1242/jeb.232777){target="_blank"}
 
 
 ## 2020
