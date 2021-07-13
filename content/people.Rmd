@@ -13,7 +13,7 @@ slug: "people"
 <div class="container">
 <b>Andrea Fuller</b> (PhD) 
 <br><a href="mailto:andrea.fuller@wits.ac.za">andrea.fuller@wits.ac.za</a> 
-<p style="max-width:230px;text-align:left">Andrea is director of the research group and a Professor in the School of Physiology at the University of the Witwatersrand, and an Extraordinary Lecturer in the Department of Paraclinical Sciences at the University of Pretoria.</p>
+<p style="max-width:230px;text-align:left">Andrea heads the team. She is a Professor in the School of Physiology at the University of the Witwatersrand, and an Extraordinary Lecturer in the Department of Paraclinical Sciences at the University of Pretoria.</p>
 </div>
 </div>
 <!-- Leith Meyer -->
@@ -40,7 +40,7 @@ slug: "people"
 <div class="container">
 <b>Anna Haw</b>
 <br><a href="mailto:annahaw@gmail.com">annahaw@gmail.com</a> 
-<p style="max-width:230px;text-align:left">Wildlife veterinarian at the Smithsonian Glabal Health Program, Kenya, and an Honorary Research Fellow in the School of Physiology at the University of the Witwatersrand</p>
+<p style="max-width:230px;text-align:left">Wildlife veterinarian at the Smithsonian Global Health Program, Kenya, and an Honorary Research Fellow in the School of Physiology at the University of the Witwatersrand</p>
 </div>
 </div>
 <!-- Vinicius Fonseca  -->
