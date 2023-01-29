@@ -94,7 +94,7 @@ slug: "people"
 <div class="container">
 <b>Wendy Panaino</b> (PhD) 
 <br><a href="mailto:wpanaino@gmail.com">wpanaino@gmail.com</a> 
-<p style="max-width:230px;text-align:left">Wendy is a Research consultant at Tswalu, and Honorary Research Fellow in the School of Physiology at the University of the Witwatersrand.</p>
+<p style="max-width:230px;text-align:left">Wendy is a Research Consultant at Tswalu, and Honorary Research Fellow in the School of Physiology at the University of the Witwatersrand.</p>
 </div>
 </div>
 </div>
@@ -178,7 +178,7 @@ slug: "people"
 </div>
 <!-- Walter Jubber -->
 <div class="card flex-item">
-<img src="../img/people/blank.jpg" class="img-circle" style="width:50%;">
+<img src="../img/people/walter-jubber.jpg" class="img-circle" style="width:50%;">
 <div class="container">
 <b>Walter Jubber</b>
 <br><a href="mailto:wrjubber@gmail.com">wrjubber@gmail.com</a> 
@@ -209,7 +209,7 @@ slug: "people"
 <div class="container">
 <b>Daniel Rossouw</b>
 <br><a href="mailto:danielrossouw2000@gmail.com">danielrossouw2000@gmail.com</a> 
-<p style="max-width:230px;text-align:left"><span style="color:red;">MSc candidate</span>: PEcological role of Temminck’s pangolins in the Kalahari.</p>
+<p style="max-width:230px;text-align:left"><span style="color:red;">MSc candidate</span>: Ecological role of Temminck’s pangolins in the Kalahari.</p>
 </div>
 </div>
 <!-- Grace Warner  -->
