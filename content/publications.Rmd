@@ -1,19 +1,54 @@
 ---
 title: "Recent publications"
 slug: "publications"
-description: "A list of our most recent publications"
+description: "A list of recent publications"
 ---
+
+## 2023
+
+- DONALDSON AC, MEYER LCR, FULLER A, BUSS PE. Chemical immobilisation of lions: weighing up drug effectiveness versus clinical effects. _Journal of the South Africa Veterinary Association_ [in press]
+
+- DONALDSON AC, MEYER LCR, FULLER A, BUSS PE. Comparison of the cardiovascular effects of immobilization with three different drug combinations in free-ranging African lions. 
+_Conservation Physiology_ **11**: coac077, 2023. DOI: [10.1093/conphys/coac077](https://doi.org/10.1093/conphys/coac077){target="_blank"}
+
+- PANAINO W, LAI S, SLIWA A. Interspecies teamwork: Evidence of interspecific foraging associations between Cape foxes and striped polecats in the southern Kalahari. _African Journal of Ecology_ [e-print ahead of press]. DOI: [10.1111/aje.13082](https://doi.org/10.1111/aje.13082){target="_blank"}
+
+- ZEILER G, DZIKITI T, RIOJA E, KAMERMAN P, BUCK R, POHLIN F, FULLER A. Prothrombin and activated partial thromboplastin times, thromboelastography, hematocrit and platelet count in a feline hemorrhage/over-resuscitation model using lactated Ringer’s solution or 6% tetrastarch 130/0.4. _Journal of Veterinary Emergency & Critical Care_ [in press]
+
+## 2022
+
+- BLATTEIS CM, TAYLOR NAS, MITCHELL D (editors). Thermal Physiology: A Worldwide History. Perspectives in Physiology, American Physiological Society. New York: Springer, 2022 (book). DOI: [10.1007/978-1-0716-2362-6](https://doi.org/10.1007/978-1-0716-2362-6){target="_blank"}
+
+- BOHNER J, PAINER J, BAKKER D, HAW AJ, RAUCH H, GREUNZ EM, EGNER B, GOERITZ F. Immobilization of captive kulans (Equus hemionus kulan) without using ultrapotent opioids. _Frontiers in Veterinary Science_ **9**: 1-14, 2022. DOI: [10.3389/fvets.2022.885317](https://doi.org/10.3389/fvets.2022.885317){target="_blank"} 
+
+- BUSS P, MILLER M, FULLER A, HAW A, THULSON E, OLEA-POPELKA F, MEYER LCR. Effect of azaperone on induction times in etorphine-immobilized white rhinoceros (Ceratotherium simum). _Journal of Wildlife Diseases_ **58**: 245-247, 2022. DOI: [10.7589/JWD-D-21-00072](https://doi.org/10.7589/JWD-D-21-00072){target="_blank"}
+
+- COOKE SJ, HULTINE KR, RUMMER JL, FANGUE NA, SEEBACHER F, ELIASON EJ, MACMILLAN HA, FULLER A, FRANKLIN CE. Elevating the impact of conservation physiology by building a community devoted to excellence, transparency, ethics, integrity and mutual respect. _Conservation Physiology_ **10**: 10.1093/conphys/coac015, 2022. DOI: [10.1093/conphys/coac015](https://doi.org/10.1093/conphys/coac015){target="_blank"}
+
+
+- FONSÊCA V, DA SILVA R, MOURA G, SNELLING E, FULLER A, MITCHELL D, DE MELO COSTA C, MILAN H, MAIA A. Reliability of methods used to determine cutaneous evaporative water loss rate in sheep and goats. _Journal of Experimental Zoology Part A_ **337**: 356-365, 2022. DOI: [10.1002/jez.2572](https://doi.org/10.1002/jez.2572){target="_blank"} 
+
+- MCFARLAND R, HENZI SP, FULLER A, HETEM RS, YOUNG C, BARRETT L. The thermal consequences of primate birth hour and its evolutionary implications. _Biology Letters_ **18**: 20210574, 2022. DOI: [10.1098/rsbl.2021.0574](https://doi.org/10.1098/rsbl.2021.0574){target="_blank"} 
+
+- MITCHELL D, LABURN HP. South African thermal physiology: highlights from the 20th Century. In: Thermal Physiology: A Worldwide History. Blatteis CM, Taylor NAS, Mitchell, D. (editors). Perspectives in Physiology, American Physiological Society. New York: Springer, 435-491, 2022. DOI: [10.1007/978-1-0716-2362-6_8](https://doi.org/10.1007/978-1-0716-2362-6_8){target="_blank"}
+
+- PANAINO W, PARRINI F, PHAKOAGO MV, SMITH D, VAN DYK G, FULLER A. Do seasonal dietary shifts by Temminck’s pangolins compensate for winter resource scarcity in a semi-arid environment? _Journal of Arid Environments **197**: 104676, 2022. DOI: [10.1016/j.jaridenv.2021.104676](https://doi.org/10.1016/j.jaridenv.2021.104676){target="_blank"}
+
+- PATTINSON NB, VAN DE VEN TMFN, FINNIE MJ, NUPEN LJ, MCKECHNNIE AE, CUNNINGHAM SJ. Collapse of breeding success in desert-dwelling hornbills evident within a single decade. _Frontiers in Ecology and Evolution_ **10**: 1-13, 2022. DOI: [10.3389/fevo.2022.842264](https://doi.org/10.3389/fevo.2022.842264){target="_blank"} 
+
+- PEREZ-MARTIN E, BEECHLER B, ZHANG F, SCOTT K, DE KLERK-LORIST L, LIMON G, DUGOVICH B, GUBBINS S, BOTHA A, HETEM R, VAN SCHALKWYK L, JULEFF N, MAREE FF, JOLLES A, CHARLESTON B. Viral dynamics and immune responses to foot-and-mouth disease virus in African buffalo (Syncerus caffer). _Veterinary Research_ **53**: Art 63, 2022. DOI: [10.1186/s13567-022-01076-3](https://doi.org/10.1186/s13567-022-01076-3){target="_blank"}
+
+- ZEILER G, FULLER A, KAMERMAN P, RIOJA E, BUCK R, POHLIN F, DZIKITI T. Describing acid-base balance using three different methods of analysis in a feline acute haemorrhage-resuscitation model. _Veterinary Anaesthesia and Analgesia_ **49**: 65-75, 2022. DOI: [10.1016/j.vaa.2021.07.004](https://doi.org/10.1016/j.vaa.2021.07.004){target="_blank"}
 
 ## 2021
 
-- ALEXANDER G, TOLLEY KA, MARITZ B, MCKECHNIE A, MANGER P, THOMSON RL, SCHRADIN C, FULLER A, MEYER L, HETEM R, CHERRY M, CONRADIE W, BAUER AM, MAPHISA D, O’RIAIN J, PARKER DM, MLAMBO MC, BRONNER G, MADIKIZA K, ENGELBRECHT A, LEE ATK, JANSEN VAN VUUREN B, MANDIWANA-NEUDANI TG, PIETERSEN D, VENTER JA, SOMERS MJ, SLOTOW R, STRAUSS WM, HUMPHRIES M, KERLEY G. Excessive red tape is strangling biodiversity research in South Africa. _South African Journal of Science_ [in press].
-
-- ANDERSON V, LEUNG AC, MEHDIPOOR H, JÄNICKE B, MILOŠEVIĆ D, OLIVEIRA A, MANAVVI S, KABANO P, DZYUBAN Y, AGUILAR R, AGAN PN, KUNDA JJ, GARCIA-CHAPETON G, FONSÊCA VDFC, NASCIMENTO ST, ZURITA-MILLA R. Technological opportunities for sensing of the health effects of weather and climate change: a state-of-the-art-review. _International Journal of Biometeorology_ [online ahead of print], 2021. DOI: [](){target="_blank"}
+- ALEXANDER G, TOLLEY KA, MARITZ B, MCKECHNIE A, MANGER P, THOMSON RL, SCHRADIN C, FULLER A, MEYER L, HETEM R, CHERRY M, CONRADIE W, BAUER AM, MAPHISA D, O’RIAIN J, PARKER DM, MLAMBO MC, BRONNER G, MADIKIZA K, ENGELBRECHT A, LEE ATK, JANSEN VAN VUUREN B, MANDIWANA-NEUDANI TG, PIETERSEN D, VENTER JA, SOMERS MJ, SLOTOW R, STRAUSS WM, HUMPHRIES M, KERLEY G. Excessive red tape is strangling biodiversity research in South Africa. _South African Journal of Science_ **117**: 10787, 2021. DOI: [10.17159/ sajs.2021/10787](https://doi.org/10.17159/ sajs.2021/10787){target="_blank"}
 https://link.springer.com/article/10.1007/s00484-020-02063-z
 
-- BOYERS M, PARRINI F, OWEN-SMITH N, ERASMUS BFN, HETEM RS. Contrasting capabilities of two ungulate species to cope with extremes of aridity. _Scientific Reports_ **11**: 4216, 2021. DOI: [10.1038/s41598-021-83732-w](https://doi.org/10.1038/s41598-021-83732-w){target="_blank"}
+- ANDERSON V, LEUNG AC, MEHDIPOOR H, JÄNICKE B, MILOŠEVIĆ D, OLIVEIRA A, MANAVVI S, KABANO P, DZYUBAN Y, AGUILAR R, AGAN PN, KUNDA JJ, GARCIA-CHAPETON G, FONSÊCA VDFC, NASCIMENTO ST, ZURITA-MILLA R. Technological opportunities for sensing of the health effects of weather and climate change: a state-of-the-art-review. _International Journal of Biometeorology_ **65**: 779–803, 2021. DOI: [10.1007/s00484-020-02063-z](https://link.springer.com/article/10.1007/s00484-020-02063-z){target="_blank"}
 
-- BUSS P, MILLER M, FULLER A, HAW A, THULSON E, OLEA-POPELKA F, MEYER LCR. Effect of azaperone on induction times in etorphine-immobilized white rhinoceros (_Ceratotherium simum_). _Journal of Wildlife Diseases_ [in press]
+
+- BOYERS M, PARRINI F, OWEN-SMITH N, ERASMUS BFN, HETEM RS. Contrasting capabilities of two ungulate species to cope with extremes of aridity. _Scientific Reports_ **11**: 4216, 2021. DOI: [10.1038/s41598-021-83732-w](https://doi.org/10.1038/s41598-021-83732-w){target="_blank"}
 
 - COOKE SJ, CRAMP RL, MADLIGER CL, BERGMAN JN, REEVE C, RUMMER JL, HULTINE KR, FULLER A, FRENCH SS, FRANKLIN CE. Conversation physiology and the COVID-19 pandemic. _Conservation Physiology_ **9**: coaa139, 2021. DOI: [10.1093/conphys/coaa139](https://doi.org/10.1093/conphys/coaa139){target="_blank"}
 
